@@ -1,0 +1,17 @@
+{
+  "name": "lhs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.0.5",
+    "mongodb": "^4.5.0",
+    "node-csv": "^0.1.2"
+  }
+}
